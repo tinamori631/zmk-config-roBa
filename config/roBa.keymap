@@ -36,9 +36,9 @@
 
 &trackball {
     automouse-layer = None;
-    // scroll-layers = <3>;
+    scroll-layers = <3>;
     // arrows {
-         layers = <3>;
+    //     layers = <3>;
     //     bindings =
     //         <&kp RIGHT_ARROW>,
     //         <&kp LEFT_ARROW>,

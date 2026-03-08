@@ -35,7 +35,7 @@
 };
 
 &trackball {
-    automouse-layer = None;
+    automouse-layer = <3>;
     scroll-layers = <3>;
 
     // arrows {

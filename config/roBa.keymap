@@ -165,7 +165,7 @@
             bindings = <
 &kp Q             &kp W         &kp E         &kp R        &kp T                                                &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F        &kp G            &mkp MCLK           &kp JP_COLON       &kp H        &kp J  &kp K      &kp L    &mt RCTRL MINUS
-&mt LSHIFT Z  &kp X         &kp C         &kp V        &kp B            &kp JP_HANZEN      &kp JP_SEMICOLON   &kp N        &kp M  &kp COMMA  &kp DOT  &mt RSHIFT SLASH
+&mt LSHIFT Z  &kp X         &kp C         &kp V        &kp B            &kp JP_HANZEN      &kp SEMICOLON   &kp N        &kp M  &kp COMMA  &kp DOT  &mt RSHIFT SLASH
 &kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 SPACE  &lt 3 BACKSPACE  &kp TAB             &kp LEFT_SHIFT  &lt 2 ENTER                             &kp DELETE
             >;
 

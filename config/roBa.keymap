@@ -107,7 +107,7 @@
                 <&macro_tap>,
                 <&to 0>,
                 <&macro_tap>,
-                <&sl_mouse 8>;
+                <&sl_mouse 0>;
         };
     };
 
